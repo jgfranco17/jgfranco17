@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=design-practice-2)](https://github.com/jgfranco17/design-practice-2)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17)](https://github.com/jgfranco17/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css)](https://github.com/jgfranco17/github-readme-stats)
