@@ -8,5 +8,5 @@ This project was built as part of the G30 Automotive Engineering program, under 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=design-practice-2&theme=gruvbox)](https://github.com/jgfranco17/design-practice-2)
 
 ## Programmer Overview
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox&hide=prs,issues,contribs"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>   
