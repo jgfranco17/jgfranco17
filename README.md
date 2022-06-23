@@ -1,4 +1,4 @@
-### Joaquin Gabriel Franco
+# Joaquin Gabriel Franco
 
 <!--
 **jgfranco17/jgfranco17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
