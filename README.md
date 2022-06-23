@@ -5,8 +5,8 @@ I am a Filipino international student pursuing Nagoya University's G30 Automotiv
 <br />
   
 ## Programmer Overview
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox"/>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>  
 <br />
   
 ## Project Highlight  
