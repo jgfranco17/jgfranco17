@@ -2,7 +2,7 @@
 
 ## Programmer Overview
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>   
 
 ## About Me  
 I am a Filipino international student pursuing Nagoya University's G30 Automotive Engineering Program. I am currently majoring in Mechanical Engineering, with electives in Electronics Engineering. My interests include Python development & machine learning, image processing, and 3D CAD modeling. Currently, I am a student intern at the Fujii Lab (藤井研究室) under Nagoya University's Department of Electrical Engineering. Under the guidance of the professors, I have been studying image processing and data handling with Python and C++, as well as introductory courses to machine learning and deep learning.     
