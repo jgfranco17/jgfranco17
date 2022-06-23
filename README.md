@@ -1,4 +1,4 @@
-### Hi there 👋
+### Joaquin Gabriel Franco
 
 <!--
 **jgfranco17/jgfranco17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgfranco17)](https://github.com/jgfranco17/github-readme-stats)
+[![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox)](https://github.com/jgfranco17/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17repo=design-practice-2)](https://github.com/jgfranco17/design-practice-2)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17)](https://github.com/jgfranco17/github-readme-stats)
