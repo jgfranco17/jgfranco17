@@ -9,4 +9,4 @@ This project was built as part of the G30 Automotive Engineering program, under 
 
 ## Programmer Overview
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox&hide=prs,issues,contribs&count_private=true"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=css&theme=gruvbox"/>   
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>   
