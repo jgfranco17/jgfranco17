@@ -13,7 +13,6 @@
 ## About Me
 <p>I am a Filipino international student pursuing my undergraduate studies in Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under Nagoya University's Department of Electrical Engineering. My main interests are image processing and machine learning. 
 </p>
-<br/>
 ![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgfranco17&show_icons=true&theme=gruvbox)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&theme=gruvbox&hide=css,html)](https://github.com/jgfranco17)
  
