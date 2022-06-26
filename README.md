@@ -2,7 +2,6 @@
   
 I am a Filipino international student pursuing Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under Nagoya University's Department of Electrical Engineering. My main interests are image processing and machine learning.    
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>
 **Connect with me:**
 <p align="left">
   <a href="https://linkedin.com/in/jgfranco17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgfranco17" height="30" width="40" /></a>
