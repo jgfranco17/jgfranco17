@@ -1,3 +1,5 @@
+<img width="40%" height="auto" src="developer.svg"/>  
+
 # Joaquin Gabriel Franco
 **Overview**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
