@@ -13,9 +13,10 @@ I am a Filipino international student pursuing Nagoya University's G30 Automotiv
   
 ## Programmer Overview
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jgfranco17&count_private=true&theme=gruvbox"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jgfranco17&count_private=true&theme=gruvbox"/> 
 </p>  
+---
 
 ## Project Highlight  
 This project was built as part of the G30 Automotive Engineering program, under the Design Practice 2 course. The primary objective was to develop a launcher to launch a ball across an uneven surface and into a designated target net. As part of the project's requirements, a motion tracking and analyzing software was to be built from scratch. The program was written in Python, using the OpenCV and Matplotlib libraries for data collection and visualization.  
