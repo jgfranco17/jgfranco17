@@ -21,7 +21,7 @@ This project was built as part of the G30 Automotive Engineering program, under 
 ## Programmer Overview
 <details>
   <summary>Github Stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&hide=stars,commits&theme=gruvbox"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jgfranco17&count_private=true&theme=gruvbox"/>
 </details>
 <details>
   <summary>Github Stats</summary>
