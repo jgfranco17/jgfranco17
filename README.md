@@ -1,6 +1,5 @@
-<img width="40%" height="auto" src="developer.svg"/>  
+# Joaquin Gabriel A. Franco  
 
-# Joaquin Gabriel Franco
 **Overview**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
