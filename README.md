@@ -24,6 +24,6 @@ This project was built as part of the G30 Automotive Engineering program, under 
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jgfranco17&count_private=true&theme=gruvbox"/>
 </details>
 <details>
-  <summary>Github Stats</summary>
+  <summary>Most-Used Languages</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&layout=compact&hide=html,css&theme=gruvbox"/>   
 </details>
