@@ -1,7 +1,7 @@
 # Joaquin Gabriel A. Franco  
 
 **Overview**
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 📫 How to reach me: **chino.franco@gmail.com**
 - ⚡ Fun fact: **I play ukulele and go to the gym**   
