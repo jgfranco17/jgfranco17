@@ -8,8 +8,8 @@
 
 **Connect with me:**
 <p align="left">
-  <a href="https://linkedin.com/in/jgfranco17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgfranco17" height="30" width="40" /></a>
-  <a href="https://instagram.com/frappuchino17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frappuchino17" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jgfranco17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgfranco17" height="30" width="40" /></a>
+  <a href="https://instagram.com/frappuchino17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frappuchino17" height="30" width="40" /></a>
 </p>
 
 ## About Me
@@ -19,7 +19,7 @@ I am a Filipino international student pursuing my undergraduate studies under Na
 
 [![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgfranco17&count_private=true&theme=gruvbox)](https://github.com/jgfranco17?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&hide=jupyter%20notebook,css&layout=compact&count_private=true&theme=gruvbox)](https://github.com/jgfranco17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&hide=css&layout=compact&count_private=true&theme=gruvbox)](https://github.com/jgfranco17)
  
 ## Languages & Tools
 <h3 align="left">Languages and Tools:</h3>
