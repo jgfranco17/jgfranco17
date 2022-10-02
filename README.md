@@ -14,7 +14,7 @@
 
 ## About Me
 <p>
-I am a Filipino international student pursuing my undergraduate studies under Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under the Department of Information and Communication Engineering. I also served as an intern at Woven Planet Holdings, under the Arene Vertext Test Bench team. My main interests are image processing and machine learning. 
+I am a Filipino international student pursuing my undergraduate studies under Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under the Department of Information and Communication Engineering. I also served as an intern at Woven Planet Holdings, under the Arene Vertex - Test Beds team. My main interests are image processing and machine learning. 
 </p>
 
 [![Chino's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgfranco17&count_private=true&theme=gruvbox)](https://github.com/jgfranco17?tab=repositories)
