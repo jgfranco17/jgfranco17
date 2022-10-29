@@ -2,9 +2,9 @@
 
 **Overview**
 - 🌱 I’m currently studying **Neural Radiance Fields and Deep Learning**
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Websocket Projects**
 - 📫 How to reach me: **chino.franco@gmail.com**
-- ⚡ Fun fact: **I play ukulele and go to the gym**   
+- ⚡ Fun fact: **I play ukulele and love going to the gym**   
 
 **Connect with me:**
 <p align="left">
