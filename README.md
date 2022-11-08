@@ -1,8 +1,8 @@
 # Joaquin Gabriel A. Franco  
 
 **Overview**
-- 🌱 I’m currently studying **Neural Radiance Fields and Deep Learning**
-- 👯 I’m looking to collaborate on **Websocket Projects**
+- 🌱 I’m currently studying **Nomad and VM tech**
+- 👯 I’m looking to collaborate on **websocket projects**
 - 📫 How to reach me: **chino.franco@gmail.com**
 - ⚡ Fun fact: **I play ukulele and love going to the gym**   
 
