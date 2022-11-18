@@ -1,6 +1,5 @@
 # 💫 Overview:
-- 🌱 I’m currently studying **Nomad and VM tech**
-- 👯 I’m looking to collaborate on **websocket projects**
+- 🌱 I’m currently studying **Nomad and infrastructure tech**
 - 📫 How to reach me: **chino.franco@gmail.com**
 - ⚡ Fun fact: **I play ukulele and love going to the gym** 
 
