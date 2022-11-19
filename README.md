@@ -5,7 +5,7 @@
 
 ## About Me
 <p>
-I am a Filipino international student pursuing my undergraduate studies under Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under the Department of Information and Communication Engineering. I also served as an intern at Woven Planet Holdings, under the Arene Vertex - Test Beds team. My main interests are Python scripting & development. 
+I am a Filipino international student pursuing my undergraduate studies under Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under the Department of Information and Communication Engineering. I also served as an intern at Woven Planet Holdings, under the Arene Vertex - Test Beds team. My main interests are Python scripting & development, computer vision, and infrastructure services. 
 </p>
 
 ## 🌐 Socials:
