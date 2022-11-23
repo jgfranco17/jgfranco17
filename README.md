@@ -1,5 +1,5 @@
 # 💫 Overview:
-- 🌱 I’m currently studying **Nomad and infrastructure tech**
+- 🌱 I’m currently studying **Ansible and and Nomad**
 - 📫 How to reach me: **chino.franco@gmail.com**
 - ⚡ Fun fact: **I play ukulele and love going to the gym** 
 
