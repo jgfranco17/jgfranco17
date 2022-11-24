@@ -24,7 +24,7 @@ I am a Filipino international student pursuing my undergraduate studies under Na
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Project Highlight  
-This project was built as part of the G30 Automotive Engineering program, under the Design Practice 2 course. The primary objective was to develop a launcher to launch a ball across an uneven surface and into a designated target net. As part of the project's requirements, a motion tracking and analyzing software was to be built from scratch. The program was written in Python, using the OpenCV and Matplotlib libraries for data collection and visualization.  
+## ⭐ Project Highlight  
+As a self-taught programmer, I found that I learn best through project-building. In order to practice my skills in software infrastructure development, I created Olympus Network: a playground environment that uses 3 virtual machines.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=design-practice-2&theme=dark)](https://github.com/jgfranco17/design-practice-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=olympus-network&theme=dark)](https://github.com/jgfranco17/olympus-network)
