@@ -19,11 +19,6 @@ I am a Filipino international student pursuing my undergraduate studies under Na
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jgfranco17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jgfranco17&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## ⭐ Project Highlight  
 As a self-taught programmer, I found that I learn best through project-building. In order to practice my skills in software infrastructure development, I created Olympus Network: a playground environment that uses 3 virtual machines.
 
