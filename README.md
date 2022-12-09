@@ -1,7 +1,7 @@
 # 💫 Overview:
-🌱 I’m currently studying **Infrastructure as Code (IaC)**
-📫 How to reach me: **chino.franco@gmail.com**
-⚡ Fun fact: **I play ukulele and love going to the gym** 
+🌱 I’m currently studying **Infrastructure as Code (IaC)**  
+📫 How to reach me: **chino.franco@gmail.com**  
+⚡ Fun fact: **I play ukulele and love going to the gym**  
 
 ## About Me
 <p>
