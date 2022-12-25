@@ -1,5 +1,5 @@
 # 💫 Overview:
-🌱 I’m currently studying **Neural Radiance Fields**  
+🌱 I’m currently studying **Neural Radiance Fields (PyTorch implementations)**  
 📫 How to reach me: **chino.franco@gmail.com**  
 ⚡ Fun fact: **I play ukulele and love going to the gym**  
 
