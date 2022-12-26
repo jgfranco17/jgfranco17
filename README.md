@@ -20,6 +20,6 @@ I am a Filipino international student pursuing my undergraduate studies under Na
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ⭐ Project Highlight  
-As a self-taught programmer, I found that I learn best through project-building. In order to practice my skills in software infrastructure development, I created Olympus Network: a playground environment that uses 3 virtual machines.
+As a member of Fujii Lab, I studied neural radiance fields (NeRF) and its applications. For my senior year research, I attempted to leverage NeRF to generate 3D spatial data of a scene.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=olympus-network&theme=dark)](https://github.com/jgfranco17/olympus-network)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=holo-nerf&theme=dark)](https://github.com/jgfranco17/holo-nerf)
