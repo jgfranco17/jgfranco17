@@ -22,4 +22,6 @@ I am a Filipino international student pursuing my undergraduate studies under Na
 ## ⭐ Project Highlight  
 As a member of Fujii Lab, I studied neural radiance fields (NeRF) and its applications. For my senior year research, I attempted to leverage NeRF to generate 3D spatial data of a scene.
 
+ ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=holo-nerf&theme=dark)](https://github.com/jgfranco17/holo-nerf)
