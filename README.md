@@ -1,5 +1,4 @@
 # 💫 Overview:
-💼 I am an incoming Associate Software Engineer at Woven Planet
 🌱 I’m currently studying **Neural Radiance Fields (PyTorch implementations)**  
 📫 How to reach me: **chino.franco@gmail.com**  
 ⚡ Fun fact: **I play ukulele and love going to the gym**  
