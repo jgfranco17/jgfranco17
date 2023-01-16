@@ -1,7 +1,4 @@
-<h1 align="center">Chino Franco</h1>
-<h3 align="center">Filipino software engineer in Japan</h3>
-
----
+<img src="banner.png" alt="banner" />  
 
 ## 👋 Overview
 🔭 I’m currently working on **Neural Radiance Fields (PyTorch implementation)**  
