@@ -2,7 +2,7 @@
 
 ## 👋 Overview
 🔭 I’m currently working on **Neural Radiance Fields (PyTorch implementation)**  
-🌱 I’m currently learning **Infrastructure as Code**  
+🌱 I’m currently learning **Basics of DevOps**  
 📫 How to reach me: **chino.franco@gmail.com**  
 ⚡ Fun fact: **I play ukulele and love going to the gym**  
 
