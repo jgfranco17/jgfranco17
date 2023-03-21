@@ -32,3 +32,6 @@ As a member of Fujii Lab, I studied neural radiance fields (NeRF) and its applic
  ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=holo-nerf&theme=dark)](https://github.com/jgfranco17/holo-nerf)
+
+### ✍️ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
