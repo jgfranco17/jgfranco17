@@ -23,7 +23,6 @@ I am a Filipino international student pursuing my undergraduate studies under Na
 
 # 📊 GitHub Stats:  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jgfranco17&theme=dark&hide_border=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgfranco17&theme=dark&hide_border=false)  
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jgfranco17&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false)
 
 ## ⭐ Project Highlight  
