@@ -1,14 +1,16 @@
 <img src="banner.png" alt="banner" />  
 
 ## 👋 Overview
-🔭 I’m currently working on **Neural Radiance Fields (PyTorch implementation)**  
+🔭 I’m working on **Neural Radiance Fields (PyTorch implementation)**  
 🌱 I’m currently learning **basics of DevOps**  
 📫 How to reach me: **chino.franco@gmail.com**  
 ⚡ Fun fact: **I play ukulele and love going to the gym**  
 
 ## 🔎 About Me
 <p>
-I am a Filipino international student pursuing my undergraduate studies under Nagoya University's G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) under the Department of Information and Communication Engineering. I also worked as an intern at Woven Planet Holdings, under the Arene Vertex - Test Beds team. My main interests are Python scripting & development, image processing & computer vision, and infrastructure services. 
+I am a Filipino international student pursuing my undergraduate studies at Nagoya University under the G30 Automotive Engineering Program. Currently, I am a student intern at the Fujii Lab (藤井研究室) of the Department of Information and Communication Engineering. I also worked as an intern at Woven Planet Holdings, under the Arene Vertex - Test Beds team. Following my graduation in September 2023, I will be working as a Software Engineer at Woven Planet.
+ 
+My main interests are Python scripting & development, image processing & computer vision, and infrastructure services. 
 </p>
 
 ## 🌐 Socials:
