@@ -28,11 +28,9 @@ My main interests are Python scripting & development, image processing & compute
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jgfranco17&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false)
 
 ## ⭐ Project Highlight  
-As a member of Fujii Lab, I studied neural radiance fields (NeRF) and its applications. For my senior year research, I attempted to leverage NeRF to generate 3D spatial data of a scene for holography applications.
+While attempting to learn Data Structures, I decided to apply my learning by creating a deployable Python library for classic DSA in order to practice standard coding interview problems. 
 
- ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=holo-nerf&theme=dark)](https://github.com/jgfranco17/holo-nerf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=slink&theme=dark)](https://github.com/jgfranco17/slink)
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
