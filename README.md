@@ -25,12 +25,15 @@ My main interests are Python scripting & development, image processing & compute
 
 # 📊 GitHub Stats:  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=jgfranco17&theme=dark&hide_border=false)
+<br />
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jgfranco17&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false)
 
 ## ⭐ Project Highlight  
-While attempting to learn Data Structures, I decided to apply my learning by creating a deployable Python library for classic DSA in order to practice standard coding interview problems. 
+This project leverages PyTorch's MiDaS model and applies monocular depth estimation renders on live webcam feed.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=slink&theme=dark)](https://github.com/jgfranco17/slink)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=depth-camera&theme=dark)](https://github.com/jgfranco17/depth-camera)
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
