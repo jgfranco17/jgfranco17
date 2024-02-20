@@ -27,9 +27,7 @@ Currently, I am a software engineer for the Test Rigs team, Validation Platform.
 ## ⭐ Project Highlight  
 This project leverages PyTorch's MiDaS model and applies monocular depth estimation renders on live webcam feed.  
 
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=depth-camera&theme=dark)](https://github.com/jgfranco17/depth-camera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=fizzbuzz-api&theme=dark)](https://github.com/jgfranco17/fizzbuzz-api)
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
