@@ -25,7 +25,7 @@ Currently, I am a software engineer for the Test Rigs team, Validation Platform.
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=jgfranco17&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false)
 
 ## ⭐ Project Highlight  
-This project leverages PyTorch's MiDaS model and applies monocular depth estimation renders on live webcam feed.  
+This project builds a simple HTTP REST API using Python, and applies BDD by implementing Behave feature tests. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=fizzbuzz-api&theme=dark)](https://github.com/jgfranco17/fizzbuzz-api)
 
