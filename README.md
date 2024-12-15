@@ -1,14 +1,17 @@
 <img src="banner.png" alt="banner" />  
 
 ## 👋 Overview
-🔭 I’m working at **Woven by Toyota**  
-📫 How to reach me: **chino.franco@gmail.com**  
-⚡ Fun fact: **I play ukulele and love going to the gym**  
+
+- 🔭 I’m working at **Woven by Toyota**  
+- 📫 How to reach me: **chino.franco@gmail.com**
+- 🔧 I specialize in **Python and Golang**
+- ⚡ Fun fact: **I play ukulele** and **I love going to the gym**  
 
 ## 🔎 About Me
-<p>
-Currently, I am a software engineer for the System Testing Framework team, under Arene engineering. I graduated from the Nagoya University G30 Automotive Engineering Program in 2023.
-</p>
+
+I graduated from the Nagoya University G30 Program in 2023, after completing my degree in Automotive Engineering. Currently, I am a software engineer
+at Woven by Toyota, the mobility subsidiary of Toyota Motor Corporation (TMC). As an engineer for the Vertex Test Experience team under Arene Tools
+Engineering, I build software testing tools to help validate and advance automotive software.
 
 ## 🌐 Socials:
 <p align="left">
