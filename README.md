@@ -2,10 +2,9 @@
 
 ## 👋 Overview
 
-- 🔭 I’m working at **Woven by Toyota**  
+- 🔭 I’m currently working as a **Backend Engineer** at **Woven by Toyota**  
 - 📫 How to reach me: **chino.franco@gmail.com**
-- 🔧 I specialize in **Python and Golang**
-- ⚡ Fun fact: **I play ukulele** and **I love going to the gym**  
+- 🔧 I specialize in **Python and Go**
 
 ## 🔎 About Me
 
@@ -14,6 +13,7 @@ at Woven by Toyota, the mobility subsidiary of Toyota Motor Corporation (TMC). A
 Engineering, I build software testing tools to help validate and advance automotive software.
 
 ## 🌐 Socials:
+
 <p align="left">
 <a href="https://linkedin.com/in/jgfranco17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgfranco17" height="30" width="40" /></a>
 <a href="https://instagram.com/frappuchino17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frappuchino17" height="30" width="40" /></a>
