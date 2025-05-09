@@ -9,8 +9,8 @@
 ## 🔎 About Me
 
 I graduated from the Nagoya University G30 Program in 2023, after completing my degree in Automotive Engineering. Currently, I am a software engineer
-at Woven by Toyota, the mobility subsidiary of Toyota Motor Corporation (TMC). As an engineer for the Vertex Test Experience team under Arene Tools
-Engineering, I build software testing tools to help validate and advance automotive software.
+at Woven by Toyota, the mobility software subsidiary of Toyota Motor Corporation (TMC). As an engineer for the Vertex Test Experience team under Arene 
+Tools Engineering, I build software testing tools to help validate and advance automotive software.
 
 ## 🌐 Socials:
 
