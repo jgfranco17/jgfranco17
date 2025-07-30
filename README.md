@@ -20,20 +20,22 @@ software testing automation tools to help validate and advance automotive softwa
 </p>
 
 # 💻 Tech Stack:
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=jgfranco17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jgfranco17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jgfranco17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ⭐ Project Highlight
 
-## ⭐ Project Highlight  
-This project builds a simple HTTP REST API using Python, and applies BDD by implementing Behave feature tests. 
+Aeternum is a developer-first, API testing and observability tool built for speed, reliability, and CI/CD integration.
+It enables automated black-box testing of HTTP endpoints, rate-limit detection, and detailed metrics via REST interface.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=fizzbuzz-api&theme=dark)](https://github.com/jgfranco17/fizzbuzz-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=aeternum&theme=dark)](https://github.com/jgfranco17/fizzbuzz-api)
 
 ### ✍️ Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
