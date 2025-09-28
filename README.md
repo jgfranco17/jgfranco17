@@ -12,6 +12,8 @@ I graduated from the Nagoya University G30 Program in 2023, after completing my 
 at Woven by Toyota, the mobility software subsidiary of Toyota Motor Corporation (TMC). As an engineer for the Arene Tools Engineering team, I build
 software testing automation tools to help validate and advance automotive software.
 
+In my free time, I like to tinker with building small backend microservices and command-line tooling.
+
 ## 🌐 Socials:
 
 <p align="left">
@@ -31,11 +33,7 @@ software testing automation tools to help validate and advance automotive softwa
 
 ## ⭐ Project Highlight
 
-Aeternum is a developer-first, API testing and observability tool built for speed, reliability, and CI/CD integration.
-It enables automated black-box testing of HTTP endpoints, rate-limit detection, and detailed metrics via REST interface.
+The `devops` CLI is a flexible command-line task runner written in Go. It lets you define repeatable workflows in YAML, manage configurations, and execute tasks with structured logging, context-aware cancellation, and extensible subcommands. Perfect for automating developer workflows, CI/CD pipelines, and project setup.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=aeternum&theme=dark)](https://github.com/jgfranco17/fizzbuzz-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=devops&theme=dark)](https://github.com/jgfranco17/devops)
 
-### ✍️ Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
