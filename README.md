@@ -24,9 +24,12 @@ In my free time, I like to tinker with building small backend microservices and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jgfranco17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgfranco17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- TEMP: Remove for now.
+
 ## ⭐ Project Highlight
 
 The `devops` CLI is a flexible command-line task runner written in Go. It lets you define repeatable workflows in YAML, manage configurations, and execute tasks with structured logging, context-aware cancellation, and extensible subcommands. Perfect for automating developer workflows, CI/CD pipelines, and project setup.
 
+-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jgfranco17&repo=devops&theme=dark)](https://github.com/jgfranco17/devops)
 
